@@ -1,2 +1,3 @@
-# desafio-dio-primeiro-repositorio
-Desafio do projeto git/github
+### Desafio do Projeto sobre Git/GitHub
+
+Tentativa de criação do repositorio
